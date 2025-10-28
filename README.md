@@ -1,35 +1,26 @@
-
 ### Hi there 👋
 
-<!--
-**eblaekerdiker/eblaekerdiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ebla, an enthusiastic Frontend Developer. I have completed my **Bachelor’s degree in Computer Engineering at Toros University** and my **Master’s degree in Computer Software at Eskişehir Technical University**. I have been passionate about web development for over 5 years, learning and improving my skills independently.
 
-Here are some ideas to get you started:
+In the **2021 fall semester**, I was accepted into the Erasmus+ program and spent 5 months in Poland, studying at the **University of AGH**, which gave me a fresh perspective on software development. I also successfully completed the **Re:Coded Frontend Web Development Bootcamp**, where I strengthened my skills in JavaScript, React, HTML, CSS, Bootstrap, and Tailwind CSS.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm Ebla, I am an excited Frontend Developer. Right now I am doing my masters on Computer Software. I am interested in web development about 4 years and I was working hard to learn by myself. In 2021 fall semester I got accepted for Erasmus+ and lived in Poland for 5 months. I studied computer science in University of AGH which gave me a whole another perspective on software. And now I got accepted to Re:Coded bootcamp :smirk: and I finished with success :relieved:. I love doing website designs in my spare time and also going to the gym is one of my addictions :muscle:. But my favorite thing is watching sitcoms and cooking :purple_heart:. 
+I am currently working at **Mezitli Belediyesi** as a Frontend Web Developer, where I build web applications using **Vue.js, Nuxt.js, Tailwind CSS, Docker, and MongoDB**. This role has allowed me to improve my skills in modern frontend frameworks, deployment workflows, and database management.  
 
-In 2021 I did my summer internship at Toros University IT department. While I am doing this internship I learned a lot about computer hardware and also algorithms. I worked with a team and worked on some projects. In this internship I experienced;
--Pyhton
--PHP
--Javascript
--CSS
--HTML
--SQL
+Previously, I did a **summer internship at Toros University IT Department** in 2021, where I gained experience with computer hardware, algorithms, and team projects. Technologies I used include:  
+- Python  
+- PHP  
+- JavaScript  
+- HTML  
+- CSS  
+- SQL  
 
-Also in 2022 I did my long term internship as a frontend developer at Z software, ODTÜ, Ankara. I worked with a team and I learned how to be a good teammate. The technologies and languages I used while I was doing my internship are;
--Angular.js
--Bootstrap
--Git
--HTML
--CSS
+In 2022, I completed a **long-term frontend internship at Z Software, ODTÜ, Ankara**, where I learned teamwork and collaboration. Technologies I used include:  
+- Angular.js  
+- Bootstrap  
+- Git  
+- HTML  
+- CSS  
 
-And as I mentioned before right now I am finishing my masters. During this whole time I learned a lot about team work, how to communicate better and of course I learned a lot about coding. 
+During my academic and professional journey, I have learned a lot about **teamwork, communication, problem-solving, and advanced coding practices**.  
+
+Outside of work, I enjoy **designing websites, going to the gym 💪, cooking 💜, and watching sitcoms**.  
